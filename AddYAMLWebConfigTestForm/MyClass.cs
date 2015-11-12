@@ -23,7 +23,7 @@ namespace AddYAMLWebConfigTestForm
 
             oldEntry.Delete();
 
-           //TestRepoChangeCommit
+           //TestRepoChangeCommit2
 
             /******    ZipArchive archive = ...; open archive in "update" mode
                        string oldName = ...,
